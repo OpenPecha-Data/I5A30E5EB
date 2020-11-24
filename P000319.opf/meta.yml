@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2CZ8058
   title: བྱམས་ཆོས་སྡེ་ལྔ།
-  volume: ''
+  volume:
+    e583aec266c64a18a22f193db1440d1d:
+      image_group_id: I1KG10523
+      title: Volume 1 of byams chos sde lnga
+      volume_number: 1
+      total_pages: 295
   author: ''
+ebook_metadata:
+  title: བྱམས་ཆོས་སྡེ་ལྔ།
+  author: ''
+  sku: P000319
+  cover: cover.jpg
+  layers:
+  - pagination
