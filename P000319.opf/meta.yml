@@ -1,5 +1,7 @@
 id: P000319
 initial_creation_type: ocr
+created_at: 12/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W2CZ8058
   title: བྱམས་ཆོས་སྡེ་ལྔ།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 295
       base_file: v001.txt
-ebook_metadata:
-  title: བྱམས་ཆོས་སྡེ་ལྔ།
-  author: ''
-  sku: P000319
-  cover: cover.jpg
-  layers:
-  - pagination
